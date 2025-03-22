@@ -1,0 +1,36 @@
+{
+    "name": "TCOIN",
+    "symbol": "TCOIN",
+    "description": "The Tech-Charged Meme Coin on Solana! The digital token that's here to bring some IT flair to the blockchain, powered by the lightning-fast Solana network.",
+    "image": "https://ipfs.io/ipfs/QmXEW3RsWgFL68wZhjDvd4UhRd9HeKghEXVHxDHw8yKmcb",
+    "external_url": "https://tplaycoin.com/",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fungible Token"
+        },
+        {
+            "trait_type": "Decimals",
+            "value": "9"
+        },
+        {
+            "trait_type": "Initial Supply",
+            "value": "1,000,000,000"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://ipfs.io/ipfs/QmXEW3RsWgFL68wZhjDvd4UhRd9HeKghEXVHxDHw8yKmcb",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "F3KUWXbTq7pA4oWR7kzsZxuun595Kx4F1dsyPTEZhBCt",
+                "share": 100
+            }
+        ]
+    }
+} 
